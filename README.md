@@ -17,7 +17,7 @@
 
 ### 🌐 Site Institucional - Paróquia
 Desenvolvimento de um site institucional com foco em organização de conteúdo, layout e experiência do usuário.  
-🛠️ HTML, CSS  
+🛠️ HTML, CSS, JavaScript   
 🔗 https://joalyssonsouza.github.io/site-paroquia/
 
 ---
