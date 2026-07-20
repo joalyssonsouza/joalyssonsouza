@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Joalisson Souza
+# 👋 Olá, eu sou Joalysson Souza
 
 💻 Desenvolvedor Front-End em formação  
 🚀 Desenvolvendo aplicações web com HTML, CSS, JavaScript e React  
