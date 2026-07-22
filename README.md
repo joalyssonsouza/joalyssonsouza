@@ -30,7 +30,7 @@ O projeto foi desenvolvido com foco em experiência do usuário, organização d
 🛠️ React.js, JavaScript, CSS, React Router, Recharts, LocalStorage
 
 🔗 Demonstração:
-https://joalyssonsouza.github.io/talcflow/
+https://talcflow.vercel.app
 
 ---
 
