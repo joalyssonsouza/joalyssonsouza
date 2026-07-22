@@ -89,7 +89,7 @@ Estudando desenvolvimento de software, banco de dados, análise de sistemas e cr
 ## 📫 Contato
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/joalisson-santos
+https://www.linkedin.com/in/joalysson-santos
 
 🔗 GitHub:
 https://github.com/joalyssonsouza
