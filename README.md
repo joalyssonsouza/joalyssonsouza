@@ -58,12 +58,11 @@ https://joalyssonsouza.github.io/todo-list/
 
 ### 🔐 Tela de Login
 
-Interface de autenticação desenvolvida com foco em design moderno, criação de formulários e organização visual da experiência de acesso.
+Interface de autenticação responsiva desenvolvida com React, com validação de formulários e design moderno.
 
-🛠️ HTML, CSS
+🛠️ React, JavaScript, Vite, CSS
 
-🔗 Projeto:
-https://joalyssonsouza.github.io/tela-login/
+🔗 Projeto: https://joalyssouza.github.io/tela-de-login/
 
 ---
 
