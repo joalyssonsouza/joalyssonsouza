@@ -62,7 +62,8 @@ Interface de autenticação responsiva desenvolvida com React, com validação d
 
 🛠️ React, JavaScript, Vite, CSS
 
-🔗 Projeto: https://joalyssouza.github.io/tela-de-login/
+🔗 Projeto:
+https://joalyssonsouza.github.io/tela-de-login/
 
 ---
 
