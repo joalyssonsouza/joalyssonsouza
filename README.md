@@ -56,11 +56,11 @@ https://joalyssonsouza.github.io/todo-list/
 
 ---
 
-### 🔐 Tela de Login
+### ✨ AURA — Tela de Autenticação
 
-Interface de autenticação responsiva desenvolvida com React, com validação de formulários e design moderno.
+Interface de autenticação responsiva desenvolvida com React e Vite, com foco em uma experiência moderna, elegante e intuitiva.
 
-🛠️ React, JavaScript, Vite, CSS
+🛠️ React, JavaScript, Vite, CSS, Lucide React
 
 🔗 Projeto:
 https://joalyssonsouza.github.io/tela-de-login/
