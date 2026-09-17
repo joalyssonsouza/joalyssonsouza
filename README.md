@@ -137,15 +137,6 @@ Formação voltada ao desenvolvimento de software, banco de dados, análise de s
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joalyssonsouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joalyssonsouza&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Onde me encontrar
 
 <p align="left">
