@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Joalysson Souza
+# 👋 Olá, me chamo Joalysson Souza
 
 💻 **Desenvolvedor Full Stack em formação**  
 🚀 Desenvolvendo projetos web e expandindo meus conhecimentos em Front-end e Back-end  
