@@ -149,7 +149,6 @@ Formação voltada ao desenvolvimento de software, banco de dados, análise de s
   </a>
 </p>
 
-📸 **Instagram:** @joalysson.souza
 
 ---
 
